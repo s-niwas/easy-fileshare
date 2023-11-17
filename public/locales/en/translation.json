@@ -1,0 +1,12 @@
+{
+    "header": {
+        "title": "EasyFileShare",
+        "toggleLabel": "Toggle Dark Mode"
+    },
+    "boxcomponent": {
+        "dragtext": "Drag and drop files",
+        "or":"or",
+        "uploadtext": "Select files to upload",
+        "descriptiontext": "Distribute transient files with universal access."
+    }
+}

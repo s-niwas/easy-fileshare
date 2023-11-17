@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "PartageFacileDeFichiers",
+    "toggleLabel": "Activer le mode sombre"
+  },
+  "boxcomponent": {
+    "dragtext": "Faites glisser et déposez des fichiers",
+    "or":"ou",
+    "uploadtext": "Sélectionnez des fichiers à télécharger",
+    "descriptiontext": "Distribuez des fichiers transitoires avec un accès universel."
+  }
+}

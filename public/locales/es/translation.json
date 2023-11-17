@@ -1,0 +1,12 @@
+{
+  "header": {
+    "title": "CompartirArchivosFáciles",
+    "toggleLabel": "Alternar Modo Oscuro"
+  },
+  "boxcomponent": {
+    "dragtext": "Arrastra y suelta archivos",
+    "or":"o",
+    "uploadtext": "Selecciona archivos para cargar",
+    "descriptiontext": "Distribuye archivos transitorios con acceso universal."
+  }
+}
